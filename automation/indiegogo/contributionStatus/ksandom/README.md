@@ -58,3 +58,9 @@ You can change how often it checks against indiegogo by editing these two lines 
 BASE_DELAY=1500 # Keep this large.
 MAX_RANDOM_DELAY=600 # This is an additional random delay so that it looks less like a bot.
 ```
+
+## Widgets for specific desktop environments
+
+### KDE Plasma
+
+* "[Command Output](https://store.kde.org/p/1166510/)" is available from the KDE store.
