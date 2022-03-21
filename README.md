@@ -2,6 +2,8 @@
 
 Tips and tricks for making the most out of the Planet Comuters Astro Slide 5G.
 
+Not all of it is solely for the Astro, but all of it is useful for the Astro.
+
 ## Official links
 
 * [Campaign on Indiegogo](https://www.indiegogo.com/projects/astro-slide-5g-transformer/x/18302490#/).
