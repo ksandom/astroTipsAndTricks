@@ -47,3 +47,23 @@ scrcpy --lock-video-orientation=0 --crop=540:1080:0:0
 ```
 
 This has reduced quality, but at least works.
+
+## Wrapper script
+
+Here is a [wrapper script](https://github.com/ksandom/astroTipsAndTricks/blob/main/documentation/scripts/scrcpyWrapper) to help you:
+
+```
+$ ./scripts/scrcpyWrapper --help
+Parameter: --help
+(No parameters.)  Default. Run scrcpy without options.
+gemini            Gemini, horizontally oriented.
+gemini-v          Gemini, vertically oriented.
+gemini-fh         Gemini, fix horizontal when an app is doing something stupid.
+gemini-fv         Gemini, fix vertical when an app is doing something stupid.
+```
+
+So to get the normal gemini output, you can do:
+
+```
+./scripts/scrcpyWrapper gemini
+```
