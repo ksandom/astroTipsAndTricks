@@ -4,6 +4,8 @@ This repo is currently inactive, and has been replaced by [my blog](https://www.
 
 If you are wanting to report bugs, the currently recommended place to do it is [shymega/planet-devices](https://github.com/shymega/planet-devices).
 
+There is also [an excellent community-driven wiki](https://github.com/shymega/planet-devices/wiki) for how to get various things done.
+
 ## Intro
 
 Tips and tricks for making the most out of the Planet Comuters Astro Slide 5G.
